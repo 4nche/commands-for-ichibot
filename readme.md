@@ -5,7 +5,7 @@ repository to create commands in javascript which allow for more dynamic creatio
 I found it a bit hard to create commands on 1 line without having overview of what I had written, this allows for more overview and the register will strip newlines and whitespaces to a normal ichibot command.
 
 ## installation
-`git clone git@github.com:4nche/ichibot-node-cmd.git && cd ./ichibot-node-cmd && yarn install`
+`git clone git@github.com:4nche/commands-for-ichibot.git && cd ./commands-for-ichibot && yarn install`
 
 see `commands` folder for my own commands
 
